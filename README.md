@@ -8,6 +8,10 @@
     or 
     `npm install`
 
+3. run project in dev mode \
+    `npm run dev` or
+    `npm run dev -- --host`
+
 ### Samanyastra - FutureForge - React - Class of April'2025
 
     this content is created by Samanyastra, published under free to use license.
